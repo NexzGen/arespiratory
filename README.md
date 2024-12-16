@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/arespiratory.png" alt="ARespiratory Banner" />
+  <img src="/public/arlogo.png" alt="ARespiratory Banner" />
 # ARespiratory
 Revolutionizing medical education through augmented reality
 </div>
